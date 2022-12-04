@@ -12,6 +12,9 @@ If you need futher information please contact [dxramirez@usfq.edu.ec](mailto:dxr
 
 This repository contains the amplicon sequencing raw reads and count tables obtained after the processing of the amplicon sequence data.
 
+### Sequencing_data
+Contains the **.fastq.gz** files with the forward and reverse raw reads for the ITS region.
+
 ### Raw_data
 **count_table_raw.csv**: CSV table that contains the raw count table of the ASV obtained for the ITS region.
 
